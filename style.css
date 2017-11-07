@@ -17,6 +17,11 @@ div.jumbotron{
   text-align: center;
 
 }
+
+div.jumbotron h1{
+  
+}
+
 header {
   height: 100px;
   border-bottom: 1px solid #ccc;
